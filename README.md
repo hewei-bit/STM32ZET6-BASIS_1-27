@@ -11,11 +11,11 @@ STM32ZET6裸机实验综合1-27章
 >>DAC1->PA.4  
 >>DAC2->PA.5  
 * DAC-PWN:  
-	PA.8(PWN_DAC)->PA.1(ADC)  
+>>	PA.8(PWN_DAC)->PA.1(ADC)  
 * 温湿度传感器DHT11:  
-	GPIOG11(I-Wire)  
+>>	GPIOG11(I-Wire)  
 * 温度传感器DS18B20:  
-	GPIOG11(I-Wire)  
+>>	GPIOG11(I-Wire)  
 * DMA:    
 	  
 * EXTI: 
